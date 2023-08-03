@@ -9,7 +9,8 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "custom.ts"
+        "custom.ts",
+        "none_limit.md"
     ],
     "testFiles": [
         "test.ts"
